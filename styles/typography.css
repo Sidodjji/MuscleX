@@ -1,0 +1,14 @@
+
+.body-main-gray,
+.body-main {
+    font-family: Raleway;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: 17.61px;
+    color: #000000;
+}
+
+.body-main-gray {
+    color: #00000066;
+}
